@@ -13,6 +13,8 @@
 
 - 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
 
+- 🪐 Goals for 2022 contribute to more projects and continue to grow my knowledge of various languages.
+
 <!-- - 📫 How to reach me **N/A** -->
 
 - 🧗🏻‍♂️ When not error correcting **You can find me behind a camera, riding a board on snow, water, or concrete, and climbing mountains.**
