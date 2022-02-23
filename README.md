@@ -5,15 +5,15 @@
 
 ## 🥑 About Me
 
-- ✈️ A USAF Veteran from California now studying and living in London.
+- ✈️ Short background **A USAF Veteran from California now studying and living in London.**
 
-- 🧠  I’m currently learning **Python, Data Structures and Algorithms, REST APIs with SPRING, JAVA and Dynamic Programming.**
+- 🧠 I’m currently learning **Python, Data Structures and Algorithms, REST APIs with SPRING, JAVA and Dynamic Programming.**
 
 - 🧙🏼‍♂️ I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
 
-- 🪐 Goals for 2022 contribute to more projects and continue to grow my knowledge of various languages.
+- 🪐 Goals for 2022 **contribute to more projects and continue to grow my knowledge of various languages.**
 
 <!-- - 📫 How to reach me **N/A** -->
 
