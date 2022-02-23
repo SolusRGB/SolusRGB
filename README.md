@@ -15,7 +15,7 @@
 
 - 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
 
-- 🪐 Goals for 2022 **contribute to more projects and continue to grow my knowledge of various languages.**
+- 🪐 Goals for 2022 **contribute to more projects, continue to grow my knowledge of various languages.**
 
 <!-- - 📫 How to reach me **N/A** -->
 
