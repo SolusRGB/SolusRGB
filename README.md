@@ -61,7 +61,7 @@
 ## Connect with me:
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/ENTERLINKHEREWHENITFIXES/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<a href = "https://www.linkedin.com/in/brandon-eddy/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
 <a href = "https://www.instagram.com/brandoneddy_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.brandoneddy.studio/"><img src="https://img.icons8.com/doodle/48/000000/apple-camera.png"/></a>
 
