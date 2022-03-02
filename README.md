@@ -51,7 +51,7 @@
 
   <br/>
     <a href="https://github.com/SolusRGB/github-readme-stats"><img alt="Brandon Eddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolusRGB&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolusRGB)](https://github.com/SolusRGB/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
