@@ -13,6 +13,8 @@
 
 - 🧙🏼‍♂️ I’m looking to collaborate on **OpenSource Projects**
 
+- 🧙🏼‍♂️ Current projects I am working on **SolSeals NFT Ecosystem and Front End Development [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/RealSolSeals)**
+
 - 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
 
 - 🪐 Goals for 2022 **contribute to more projects, continue to grow my knowledge of various languages.**
