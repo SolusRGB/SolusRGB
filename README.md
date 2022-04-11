@@ -13,7 +13,7 @@
 
 - 🧙🏼‍♂️ I’m looking to collaborate on **OpenSource Projects**
 
-- 🧙🏼‍♂️ Current projects I am working on **Developer for the SolSeals NFT Ecosystem and SOL Brawl Game [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/RealSolSeals) [Website](https://www.solanaseals.com/)**
+- 🧙🏼‍♂️ Current projects I am working on **Developer for the SolSeals NFT Ecosystem and DYOR Dashboard [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/RealSolSeals) [Website](https://www.solanaseals.com/)**
 
 - 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
 
