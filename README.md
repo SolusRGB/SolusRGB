@@ -52,12 +52,12 @@
 ## 📊 My Github Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolusRGB&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Brandon Eddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolusRGB&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
