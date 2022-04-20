@@ -51,6 +51,9 @@
 
 ## 📊 My Github Stats
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb)](https://github.com/anuraghazra/github-readme-stats)
+
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Brandon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SolusRGB&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
