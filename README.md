@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://pa1.narvii.com/6932/0939adf270d5588e513127b5eb21d2c42d26fd2er1-320-317_hq.gif" width="20px">, I'm Brandon.</h1>
+<h1 align="center">Hello <img src="https://pa1.narvii.com/6932/0939adf270d5588e513127b5eb21d2c42d26fd2er1-320-317_hq.gif" width="10px">, I'm Brandon.</h1>
 <h3 align="center">A first year Computer Science student.</h3>
 
 
