@@ -15,7 +15,7 @@
 
 - 🧙🏼‍♂️ Current projects I am working on **Developer for the Cypher Seals NFT Ecosystem and DYOR Dashboard [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/CypherSeals) [Website](https://cypherseals.io/)**
 
-- 👨‍💻 My photography you can view here **[Photography](https://www.instagram.com/brandoneddy_/)**
+- 👨‍💻 My photography you can view here **[Photography]()**
 
 - 🪐 Goals for 2022 **contribute to more projects, continue to grow my knowledge of various languages.**
 
