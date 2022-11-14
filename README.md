@@ -13,7 +13,7 @@
 
 - 🧙🏼‍♂️ I’m looking to collaborate on **OpenSource Projects** and **Web3 Projects**
 
-- 🧙🏼‍♂️ Current projects I am working on **Developer for the Cypher Seals NFT Ecosystem and DYOR Dashboard [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/CypherSeals) [Website](https://cypherseals.io/)**
+- 🧙🏼‍♂️ Current projects I am working on **Developer for the Cypher Seals NFT Ecosystem and application [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/CypherSeals) [Website](https://cypherseals.io/)**
 
 - 👨‍💻 My photography you can view here **[Photography.](https://exchange.art/series/Remnants)**
 
