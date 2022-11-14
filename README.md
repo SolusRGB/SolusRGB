@@ -33,6 +33,7 @@
     <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/circled-n.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/index.html" target="_blank"> <img              src="https://img.icons8.com/color/48/null/oracle-logo.png"/>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/figma--v1.png"/> </a>
