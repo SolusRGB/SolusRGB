@@ -15,11 +15,11 @@
 
 - 🧙🏼‍♂️ Current projects I am working on **Developer for the Cypher Seals NFT Ecosystem and application [Discord](https://discord.gg/MWPxZGPddm) [Twitter](https://twitter.com/CypherSeals) [Website](https://cypherseals.io/)**
 
-- 👨‍💻 My photography you can view here **[Photography.](https://exchange.art/series/Remnants)**
+- 👨‍💻 My photography you can view here **[Photography.]()**
 
-- 🪐 Goals for 2022 **contribute to more projects, continue to grow my knowledge of various languages.**
+- 🪐 Goals for 2023 **contribute to more projects, continue to grow my knowledge of various languages.**
 
-- 🧗🏻‍♂️ When not error correcting **You can find me behind a camera, riding a board on snow, water, or concrete, and climbing mountains.**
+- 🧗🏻‍♂️ You can find me behind a camera and climbing mountains.**
 
 ## 🚀 Languages and Tools:
 
