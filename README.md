@@ -13,7 +13,7 @@
 
 - 🧙🏼‍♂️ I’m looking to collaborate on **OpenSource Projects** and **Web3 Projects**
 
-- 🧙🏼‍♂️ Current projects I am working on **Developer for Ukay DAO. [Discord](https://discord.gg/ukay) [Twitter](https://twitter.com/ukaybears) [Website]([https://cypherseals.io/](https://www.ukay.io/))**
+- 🧙🏼‍♂️ Current projects - I'm a **Developer for Ukay DAO. [Discord](https://discord.gg/ukay) [Twitter](https://twitter.com/ukaybears) [Website]([https://cypherseals.io/](https://www.ukay.io/))**
 
 - 👨‍💻 My photography you can view here **[Photography.]()**
 
