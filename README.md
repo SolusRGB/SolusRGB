@@ -40,22 +40,3 @@
 </p>
 
 <br/>
-
-
-// ## 📊 My Github Stats
-
-
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-// ![Solus's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusrgb&count_private=true&theme=synthwave&show_icons=true)
- 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
-
-## Connect with me:
-<p align="left">
-
-
-
-
-</p>
