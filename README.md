@@ -19,7 +19,7 @@
 
 - 🪐 Goals for 2023 **contribute to more projects, continue to grow my knowledge of various languages.**
 
-- 🧗🏻‍♂️ You can find me behind a camera and climbing mountains.**
+- 🧗🏻‍♂️ When I'm not behind a computer, you can find me behind a camera and climbing mountains.
 
 ## 🚀 Languages and Tools:
 
