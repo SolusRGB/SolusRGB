@@ -39,4 +39,10 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/figma--v1.png"/> </a>
 </p>
 
+## 📊 My Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <br/>
