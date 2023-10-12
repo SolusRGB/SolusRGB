@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://pa1.narvii.com/6932/0939adf270d5588e513127b5eb21d2c42d26fd2er1-320-317_hq.gif" height="50px" width="50px">, I'm Solus.</h1>
+<h1 align="center">Hello <img src="https://pa1.narvii.com/6932/0939adf270d5588e513127b5eb21d2c42d26fd2er1-320-317_hq.gif" height="40px" width="50px">, I'm Solus.</h1>
 <h3 align="center">A Computer Science student.</h3>
 
 
