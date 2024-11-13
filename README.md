@@ -7,7 +7,7 @@
 
 hi.
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -25,7 +25,7 @@ hi.
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/figma--v1.png"/> </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusrgb&layout=compact)](github-stats-c6f1ubi2w-solusrgb.vercel.app)
 
